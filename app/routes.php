@@ -29,5 +29,5 @@ Route::resource('todos','TodoListController');
 // });
 
 Route::get('/console', function() {
-	return View::make('console');
+	return View::make('console.console');
 });
