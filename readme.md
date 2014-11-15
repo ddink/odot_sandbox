@@ -1,4 +1,4 @@
-## Treehouse's Odot App Preconfigured A Laravel Console
+## Treehouse's Odot App Preconfigured With A Laravel Console
 
 After completing Treehouse's Laravel Basics course I was looking for a way to keep improving my knowledge of PHP within a Laravel environment. I was also curious about in-browser consoles at the time. I did a google search, found Darsain's Laravel Console package, and decided to install it into the odot application.
 
